@@ -8,4 +8,4 @@
 
 **index.html = código de marcação.**
 
-**game-retro/img/.. = imagens exibidas no website.**
+**/img/.. = imagens exibidas no website.**
