@@ -1,1 +1,1 @@
-# game-retro
+# project: game retro website
